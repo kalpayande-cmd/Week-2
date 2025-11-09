@@ -1,0 +1,58 @@
+label,text
+up,go up
+up,move up
+up,ascend
+up,increase height
+up,climb altitude
+down,go down
+down,move down
+down,descend
+down,decrease height
+down,reduce altitude
+left,turn left
+left,move left
+left,bank left
+left,adjust heading left
+right,turn right
+right,move right
+right,bank right
+right,adjust heading right
+takeoff,take off
+takeoff,initiate takeoff
+takeoff,permission to take off
+takeoff,ready for takeoff
+land,land aircraft
+land,prepare for landing
+land,initiate landing
+land,ready to land
+increase_altitude,increase altitude
+increase_altitude,go higher
+increase_altitude,climb higher
+increase_altitude,raise altitude
+decrease_altitude,decrease altitude
+decrease_altitude,go lower
+decrease_altitude,descend further
+decrease_altitude,reduce altitude
+hold,hold position
+hold,maintain position
+hold,stay in place
+resume,resume flight
+resume,continue flight
+resume,proceed on course
+request_landing,request landing clearance
+request_landing,permission to land
+request_landing,cleared for landing
+request_takeoff,request takeoff clearance
+request_takeoff,permission to take off
+request_takeoff,ready for takeoff clearance
+altitude_check,check altitude
+altitude_check,verify altitude
+altitude_check,confirm altitude
+heading_change,change heading
+heading_change,adjust direction
+heading_change,modify course
+request_takeoff,cleared for immediate takeoff
+request_takeoff,permission for departure
+request_takeoff,request line-up and takeoff
+request_takeoff,ready for departure clearance
+request_takeoff,runway two seven ready for takeoff
